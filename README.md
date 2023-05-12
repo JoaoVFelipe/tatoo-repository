@@ -2,6 +2,7 @@
 Images for data-science training
 
 ## Como executar o código do trabalho:
+- Clonar este repositório;
 - Instalar os pacotes explicitados no arquivo 'requirements.txt' no seu ambiente Python de escolha;
 - Executar o notebook incluso no repositório, na sequência e seguindo os comentários existentes no mesmo;
 
